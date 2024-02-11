@@ -25,6 +25,9 @@ This course introduces practical programming and parallel processing skills on i
 - 💐 https://slurm.schedmd.com/
 - 💐 https://cleanlab.ai/blog/multiannotator/
 - 💐 https://github.com/mli/paper-reading?tab=readme-ov-file
+- 💐 https://github.com/huggingface/transformers (transformer models: BERT, GPT, ...)  using PyTorch
+- 💐 https://github.com/facebookresearch/fairseq (sequence modeling for NLP & speech)  using PyTorch
+- 💐 https://github.com/espnet/espnet (speech recognition, translation, synthesis, ...)  using PyTorch
 - 💐 Machine Learning by HUNG-YI LEE https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php
 - 💐 Stanford course “Practical Machine Learning” https://c.d2l.ai/stanford-cs329p/index.html
 - 💐 Stanford CS224d: Deep Learning for Natural Language Processing http://cs224d.stanford.edu/
