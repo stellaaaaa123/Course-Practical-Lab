@@ -33,4 +33,8 @@ This course introduces practical programming and parallel processing skills on i
 - 💐 Stanford CS224d: Deep Learning for Natural Language Processing http://cs224d.stanford.edu/
 - 💐 Stanford CS231n: Convolutional Neural Networks for Visual Recognition http://cs231n.stanford.edu/
 - 💐 UC Berkeley CS 294: Deep Reinforcement Learning http://rail.eecs.berkeley.edu/deeprlcourse/
+- 💐 CS 280: Computer Vision, UC Berkeley, Spring 2023: https://cs280-berkeley.github.io/
+- 💐 CS231n: Deep Learning for Computer Vision, Stanford - Spring 2023: http://cs231n.stanford.edu/schedule.html
+- 💐 CSCI-GA.2271-001: Computer Vision, NYU, Fall 2023: https://cs.nyu.edu/~fergus/teaching/vision/index.html
+- 💐 Top computer vision conferences and papers: CVPR: IEEE Conference on Computer Vision and Pattern Recognition, ICCV: International Conference on Computer Vision, ECCV: European Conference on Computer Vision, NIPS: Neural Information Processing Systems
 -  ……
